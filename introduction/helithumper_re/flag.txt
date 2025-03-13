@@ -1,0 +1,2 @@
+input should be: "flag{HuCf_lAb}"
+and that is also the flag!
